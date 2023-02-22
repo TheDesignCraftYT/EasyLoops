@@ -1,4 +1,4 @@
-package loops;
+package de.thedesigncraft.easyloopstest.loops;
 
 import de.thedesigncraft.easyloops.ILoop;
 
