@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>de.thedesigncraft</groupId>
+    <groupId>de.thedesigncraft.easyloops</groupId>
     <artifactId>EasyLoops</artifactId>
-    <version>v1.0.0</version>
+    <version>v1.0.1</version>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-classic -->
@@ -57,6 +57,11 @@
                         </manifest>
                     </archive>
                 </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-deploy-plugin</artifactId>
+                <version>2.7</version>
             </plugin>
         </plugins>
     </build>
