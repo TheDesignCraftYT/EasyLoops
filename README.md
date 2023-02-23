@@ -18,13 +18,13 @@
 [ ![license-shield][] ][license]
 [ ![discord-shield][] ][discord-invite]
 
-# de.thedesigncraft.easyloops.EasyLoops
+# EasyLoops
 
 EasyLoops is a small, simple and easy to use library for creating loops in Java.
 
 ## Summary
 
-1. [Implementing de.thedesigncraft.easyloops.EasyLoops into your project](#implementing-easyloops-into-your-project)
+1. [Implementing EasyLoops into your project](#implementing-easyloops-into-your-project)
 2. [Creating a loop](#creating-a-loop)
 3. [Download](#download)
 4. [License](#license)
@@ -32,7 +32,7 @@ EasyLoops is a small, simple and easy to use library for creating loops in Java.
 6. [Contact](#contact)
 7. [Credits](#credits)
 
-### Implementing de.thedesigncraft.easyloops.EasyLoops into your project
+### Implementing EasyLoops into your project
 
 To activate EasyLoops in your project, you need to add the following code to your project:
 
