@@ -6,7 +6,7 @@
 
     <groupId>de.thedesigncraft.easyloops</groupId>
     <artifactId>easyloops</artifactId>
-    <version>v1.0.1</version>
+    <version>v1.0.0</version>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-classic -->
